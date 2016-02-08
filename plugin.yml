@@ -1,0 +1,9 @@
+name: FFA PvP
+main: com.infinity.pvp.main.PvP
+version: 1.0
+author: xXInfinityXx
+description: Custom coded PvP game for AtlantisPvP
+commands:
+  game:
+    description: Used to start or stop the game.
+    usage: /<command> 
